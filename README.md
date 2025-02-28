@@ -51,8 +51,7 @@ Both scripts can be adapted or extended with different boundary/initial conditio
 
 ## Acknowledgments
 
-- **Welch Labs (YouTube)**: Provided conceptual and algorithmic inspiration for the Schrödinger equation approach.
-- Any additional texts, online forums, or other resources that contributed to the development of these methods.
+- **Welch Labs (YouTube)**: Provided inspiration for the Schrödinger equation.
 
 ---
 
