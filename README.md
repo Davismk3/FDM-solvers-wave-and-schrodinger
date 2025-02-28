@@ -1,7 +1,7 @@
 # Waves
 # Quantum and Classical Wave Equation Solvers
 
-This repository provides Python implementations for solving the time-dependent Schrödinger equation and a classical wave equation, both using finite difference methods. Inspiration for the quantum solver comes from **Welch Labs**' YouTube series on the Schrödinger equation. A `Math.pdf` document is included to detail the mathematical derivations behind these models.
+This repository provides Python implementations for solving the time-dependent Schrödinger equation and a classical wave equation, both using finite difference methods. Inspiration for the quantum solver comes from **Welch Labs**' YouTube series on the Schrödinger equation. A `Math.pdf` document is included to detail the equations behind these models.
 
 ---
 
