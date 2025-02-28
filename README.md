@@ -31,10 +31,7 @@ Both scripts can be adapted or extended with different boundary/initial conditio
 ## Mathematical Documentation
 
 - **Math.pdf**  
-  This document provides a detailed overview of the derivations and finite difference schemes used for both the Schrödinger and wave equations. It covers:
-  - Spatial and temporal discretization  
-  - Boundary condition treatments  
-  - Stability considerations (e.g., CFL condition)
+  This document provides a detailed overview of the wave and Schrödinger equations. Most of the information here was found on Wikipedia.
 
 ---
 
