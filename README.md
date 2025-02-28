@@ -58,4 +58,4 @@ Both scripts can be adapted or extended with different boundary/initial conditio
 
 ## License
 
-*(Include your preferred license text here, for example, MIT License, or indicate it is proprietary if you do not wish to open-source your work.)*
+Open-source
